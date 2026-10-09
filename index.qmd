@@ -1,0 +1,19 @@
+---
+title: "Kar Weng Ng"
+image: images/london.jpeg
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/karwengg/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kar-weng-ng/
+    - text: "{{< fa brands orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-5533-9234
+---
+
+Hello there! I'm Kar Weng. I am a practising pharmacist and currently pursuing a PhD in pharmacometrics.

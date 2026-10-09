@@ -1,5 +1,6 @@
 ---
 title: "Kar Weng Ng"
+pagetitle: "Kar Weng Ng"
 image: images/london.jpeg
 toc: false
 about:
